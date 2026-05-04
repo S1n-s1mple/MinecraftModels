@@ -1,0 +1,13 @@
+{
+    "format_version": "1.20.10",
+    "minecraft:item": {
+        "description": {
+            "identifier": "eddieworks:mangrove_chair",
+            "category": "Construction"
+        },
+        "components": {
+            "minecraft:icon": { "texture": "mangrove_chair" },
+            "minecraft:entity_placer": { "entity": "eddieworks:wooden_chair" }
+        }
+    }
+}
